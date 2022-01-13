@@ -1,0 +1,14 @@
+{
+  "name": "rl-sync",
+  "version": "1.0.0",
+  "description": "here we go again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonas andarson",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
